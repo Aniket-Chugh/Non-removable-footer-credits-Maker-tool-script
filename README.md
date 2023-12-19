@@ -22,3 +22,8 @@ Copy and paste the generated code into your website.
 # Have a live demo here 
 
 https://aniket-chugh.github.io/Non-removable-footer-credits-Maker-tool-script/
+
+## License
+
+This project is open-source and available under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license. Developed abd code done by Aniket Chugh.
+
