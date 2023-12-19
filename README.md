@@ -25,5 +25,6 @@ https://aniket-chugh.github.io/Non-removable-footer-credits-Maker-tool-script/
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license. Developed abd code done by Aniket Chugh.
+
+This project is not licensed. All rights are reserved by the creator{Aniket Chugh}. If you are interested in using, modifying, or distributing the code, feel free to do it.
 
