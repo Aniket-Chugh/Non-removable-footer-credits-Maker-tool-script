@@ -18,3 +18,7 @@ Enter your copyright text in the "Text" field.
 Provide the redirection link in the "Link" field.
 Click the "Generate Code" button to obtain the HTML code.
 Copy and paste the generated code into your website.
+
+# Have a live demo here 
+
+https://aniket-chugh.github.io/Non-removable-footer-credits-Maker-tool-script/
